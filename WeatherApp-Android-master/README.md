@@ -47,11 +47,3 @@ public final static String API_KEY = "81a26c8f0de407b94623e9f43e825679";
 ##### Note :
 
 > Single API key on have
-
-## Contributing
-
-Please fork this repository and contribute back. Any contributions, large or small, major or minor features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed.
-
-## Support
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aniketjain)
